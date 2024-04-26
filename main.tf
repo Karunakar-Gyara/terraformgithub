@@ -1,5 +1,5 @@
 resource "google_storage_bucket" "static" {
-  name          = "githubterraformbucket"
+  name          = "githubterraformbucket-123"
   location      = "US"
   project       = "precise-bonus-421514"
   storage_class = "STANDARD"
